@@ -7,3 +7,4 @@
 - [アプリ開発](アプリ開発.md)
 - [服](服.md)
 - [Programs](Programs.md)
+- [疑似AgentTeams](疑似AgentTeams.md)
