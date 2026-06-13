@@ -8,3 +8,5 @@
 - [服](服.md)
 - [Programs](Programs.md)
 - [疑似AgentTeams](疑似AgentTeams.md)
+- [消費期限チェッカー](消費期限チェッカー.md)
+- [欲しいもの](欲しいもの.md)

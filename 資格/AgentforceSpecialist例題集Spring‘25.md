@@ -2615,6 +2615,9 @@ C. プロンプトの防御
 【答え】C
 
 【解説】
+Einstein Trust Layerの「プロンプト防御」機能は、悪意のある指示や不正な入力パターンを検出し、システムプロンプトや安全ルールの上書き（ジェイルブレイクやプロンプトインジェクション）を防ぐための専用のガードレールとして機能します。
+
+
 Help - ﻿https://help.salesforce.com/s/articleView?id=ai.generative_ai_trust_layer.htm&type=5﻿
 
 (A). セキュアなデータ取得と接地

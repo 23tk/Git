@@ -1,3 +1,11 @@
+KEY
+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
+
+# リンク
+[疑似AgentTeams_仕様](疑似AgentTeams_仕様.md)
+
+
+##
 3人の仮回答案をまとめました。
 
 【UXデザイナー】
@@ -28,3 +36,5 @@
 
 
 ![alt text](image.png)
+
+
