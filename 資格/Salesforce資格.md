@@ -11,3 +11,4 @@
 [Agentforce Specialist 例題集 Spring ‘25_問題だけ](AgentforceSpecialist例題集Spring‘25_問題だけ.md)
 [Agentforce Specialist 例題集 Spring ‘25_解答用紙](AgentforceSpecialist例題集Spring‘25_解答用紙.md)
 [Agentforce Specialist 例題集 Spring ‘25_解答用紙_間違えた問題](AgentforceSpecialist例題集Spring‘25_解答用紙_間違えた問題.md)
+[Agentforce Specialist 例題集 Spring ‘25_解答用紙_間違えた問題02](AgentforceSpecialist例題集Spring‘25_解答用紙_間違えた問題02.md)
