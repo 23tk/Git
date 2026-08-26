@@ -1,0 +1,21 @@
+{
+  "name": "gemini-uploader",
+  "displayName": "Gemini Uploader",
+  "description": "Upload GitHub raw file to Gemini API",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "activationEvents": [
+    "onCommand:geminiUploader.open"
+  ],
+  "contributes": {
+    "commands": [
+      {
+        "command": "geminiUploader.open",
+        "title": "Gemini パネルを開く"
+      }
+    ]
+  },
+  "main": "./extension.js"
+}

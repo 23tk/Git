@@ -1,0 +1,102 @@
+No 私の回答 Ans
+1 C C
+2 C A
+3 B B
+4 B B
+5 B C
+6 C B
+7 C C
+8 B B
+9 A A
+10 A A
+11 A C
+12 C A
+13 B B
+14 B B
+15 C C
+16 A A
+17 A B
+18 B B
+19 A A
+20 B C
+21 B A
+22 B B
+23 C C
+24 B B
+25 B B
+26 B B
+27 A A
+28 B B
+29 C A
+30 B B
+31 C C
+32 C A
+33 A A
+34 A A
+35 A B
+36 C C
+37 C C
+38 C A
+39 B C
+40 B B
+41 C C
+42 C C
+43 B B
+44 A A
+45 A C
+46 A A
+47 A A
+48 C C
+49 A B
+50 C C
+51 B B
+52 C C
+53 C C
+54 B B
+55 A A
+56 C C
+57 A C
+58 A B
+59 B B
+60 B B
+61 A A
+62 A C
+63 C C
+64 C C
+65 B C
+66 B B
+67 C C
+68 A A
+69 A A
+70 A B
+71 B B
+72 B A
+73 C C
+74 C C
+75 A A
+76
+77
+78
+79
+80
+81
+82
+83
+84
+85
+86
+87
+88
+89
+90
+91
+92
+93
+94
+95
+96
+97
+98
+99
+100
+
